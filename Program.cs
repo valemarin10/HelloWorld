@@ -11,6 +11,7 @@ namespace HelloWorld
 
             Console.WriteLine("Hello World!");
 
+            // Read the input
             Console.ReadKey(true);
         }
     }
